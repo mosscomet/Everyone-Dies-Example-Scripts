@@ -1,4 +1,4 @@
-# Everyone-Dies-Example-Scripts
+# Everyone Dies | 2D Wave Survival Scripts
 
 ### Project Overview
 This 2D survival game was developed during the first semester of a game design and computer science course. The project focused on building core gameplay mechanics and gaining proficiency in C# and Unity. While the second semester of the course involved collaborative development and version control training, this repository highlights the foundation established in the first half of the year.
